@@ -2,7 +2,7 @@
  This Repository is having all the codes used in AI/ML Internship by ETG
 
 ### Overview
- We learn about how to build inventory management system and make project in it.
+ We learn about how to build inventory management system and make the project in it.
 
 ### All Files
  1. record.json
